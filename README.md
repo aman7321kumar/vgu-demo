@@ -1,4 +1,4 @@
 # vgu-demo
 This is my first repository
 <br>
-i want to add something
+i want to add some more style 
